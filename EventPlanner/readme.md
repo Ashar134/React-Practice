@@ -1,6 +1,6 @@
 #  Event Planner Landing Page
 
-![Event Planner Screenshot](./4822391f-12cf-41a6-a955-29656b10bcf3.png)
+![Event Planner Screenshot](./eventplanner.png)
 
 Welcome to **Event Planner**, a sleek and intuitive landing page built using React. This project simulates a landing page for a service that helps users plan and organize events such as weddings, concerts, charity galas, and more.
 
