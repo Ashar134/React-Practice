@@ -1,6 +1,6 @@
 # ContentRating React Component
 
-![ContentRating Screenshot](./7ddbc809-d85c-4a6e-9f71-2a0c68ccc263.png)
+![ContentRating Screenshot](./contentrating.png)
 
 ## Overview
 
