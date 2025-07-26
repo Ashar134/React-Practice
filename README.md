@@ -71,7 +71,7 @@ npm run preview
 ## 📁 Folder Structure
 
 ```
-react-practice/
+project-name/
 ├── public/                   # Static files
 ├── src/
 │   ├── components/           # React components (CertificateSection, Contact, etc.)
