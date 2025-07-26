@@ -4,26 +4,6 @@ Welcome to my **React Practice** repository! This project is a collection of exe
 
 ---
 
-## 📁 Folder Structure
-
-[react-project-name]/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/ # Reusable components (e.g., Header, Footer, Skills, Certificates)
-│ ├── css/ # Custom CSS files for styling
-│ ├── App.js # Main application component
-│ └── index.js # Entry point
-├── .gitignore
-├── package.json
-└── README.md
-
-# ⚛️ React Practice (Vite)
-
-This repository contains my React practice projects built using **Vite** — a fast, modern build tool. The goal is to sharpen my frontend skills by developing reusable components, layouts, and functional sections like a certificate showcase, contact info, and social links.
-
----
-
 # ⚛️ React Practice (Vite)
 
 This repository contains my React practice projects built using **Vite** — a fast, modern build tool. The goal is to sharpen my frontend skills by developing reusable components, layouts, and functional sections like a certificate showcase, contact info, and social links.
