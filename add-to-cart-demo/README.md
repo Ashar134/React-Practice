@@ -52,11 +52,6 @@ Follow these steps to create a new React + Vite project and use this code.
 npm create vite@latest add-to-cart-demo --template react
 ```
 
-> Or with Yarn:
-
-```bash
-yarn create vite add-to-cart-demo --template react
-```
 
 Then move into your project:
 
@@ -120,9 +115,3 @@ add-to-cart-demo/
 ```
 
 ---
-
-## 🚀 Live Demo (Optional)
-
-If hosted, include your live link here:
-
-> Coming Soon or [View Live](https://your-demo-link.com)
