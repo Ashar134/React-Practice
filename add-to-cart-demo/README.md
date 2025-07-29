@@ -68,13 +68,6 @@ Install base project and Redux Toolkit dependencies:
 ```bash
 npm install @reduxjs/toolkit react-redux
 ```
-
-> Or
-
-```bash
-yarn add @reduxjs/toolkit react-redux
-```
-
 ---
 
 ### Replace `src` folder
