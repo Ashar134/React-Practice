@@ -1,4 +1,3 @@
-
 # Add to Cart - React + Vite Demo
 
 This is a simple project to practice **Add to Cart** functionality using React and Vite.
@@ -22,9 +21,9 @@ By the end of this lab, you will be able to:
 
 - Integrate React components with **Redux Toolkit**  
 - Implement key E-Commerce features:
-- Add to cart  
-- Remove from cart  
-- Clear cart  
+  - Add to cart  
+  - Remove from cart  
+  - Clear cart  
 - Compose multiple React components into a single UI  
 - Use **Redux state** globally across the app
 
@@ -37,10 +36,9 @@ To succeed in this lab, you should be familiar with:
 - Basic knowledge of **React** and component composition  
 - Intermediate-level **JavaScript**  
 - Functional components and the `useState` hook in React  
-- Fundamentals of **Redux Toolkit** (createSlice, store, etc.)
+- Fundamentals of **Redux Toolkit** (`createSlice`, `store`, etc.)
 
 ---
-
 
 ## Getting Started
 
@@ -51,33 +49,35 @@ Follow these steps to create a new React + Vite project and use this code.
 ### Create a new Vite + React project
 
 ```bash
-npm create vite@latest my-cart-app --template react
+npm create vite@latest add-to-cart-demo --template react
 ```
 
 > Or with Yarn:
 
 ```bash
-yarn create vite my-cart-app --template react
+yarn create vite add-to-cart-demo --template react
 ```
 
 Then move into your project:
 
 ```bash
-cd my-cart-app
+cd add-to-cart-demo
 ```
 
 ---
 
 ### Install dependencies
 
+Install base project and Redux Toolkit dependencies:
+
 ```bash
-npm install
+npm install @reduxjs/toolkit react-redux
 ```
 
 > Or
 
 ```bash
-yarn install
+yarn add @reduxjs/toolkit react-redux
 ```
 
 ---
@@ -86,7 +86,7 @@ yarn install
 
 Delete the existing `src` folder in the newly created Vite project.
 
-Then copy-paste the provided `src` folder from this repository into your Vite project root.
+Then copy and paste the `src` folder from this project into your Vite project, replacing the existing one.
 
 ---
 
@@ -121,3 +121,8 @@ add-to-cart-demo/
 
 ---
 
+## 🚀 Live Demo (Optional)
+
+If hosted, include your live link here:
+
+> Coming Soon or [View Live](https://your-demo-link.com)
